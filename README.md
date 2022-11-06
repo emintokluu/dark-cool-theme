@@ -1,0 +1,1 @@
+Awesome cool theme decorated with awesome colors

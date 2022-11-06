@@ -1,0 +1,34 @@
+{
+  "name": "dark-cool-theme",
+  "displayName": "dark-cool-theme",
+  "description": "Awesome dark cool theme",
+  "version": "0.1.0",
+  "publisher": "emintoklu",
+  "keywords": [
+    "vscode",
+    "theme",
+    "cool",
+    "codefor",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emintokluu/codefor-green-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "codefor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codefor-color-theme.json"
+      }
+    ]
+  }
+}
